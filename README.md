@@ -1,5 +1,5 @@
 # [CVPR 2025] Reconciling Stochastic and Deterministic Strategies for Zero-shot Image Restoration using Diffusion Model in Dual
-This is the official implementation of the CVPR 20245 paper 
+This is the official implementation of the CVPR 2025 paper 
 ["Reconciling Stochastic and Deterministic Strategies for Zero-shot Image Restoration using Diffusion Model in Dual"]("https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Reconciling_Stochastic_and_Deterministic_Strategies_for_Zero-shot_Image_Restoration_using_CVPR_2025_paper.pdf")
 
 *Chong Wang, Lanqing Guo, Zixuan Fu, Siyuan Yang, Hao Cheng, Alex C. Kot, Bihan Wen*
